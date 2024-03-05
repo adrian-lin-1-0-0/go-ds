@@ -2,6 +2,7 @@
 
 ## Tree
 - [Binary Index Tree](./tree/bit.go)
+
   Time Complexity
   
   | Operation |  Average | Worst case |
