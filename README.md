@@ -1,7 +1,7 @@
 # Go Data Structures
 
 ## Tree
-- [Binary Index Tree](./tree/bit.go)
+- [Fenwick tree (Binary Index Tree)](./tree/bit.go)
 
   Time Complexity
   
